@@ -1,0 +1,2 @@
+module PanelesHelper
+end

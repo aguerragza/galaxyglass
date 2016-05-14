@@ -1,0 +1,2 @@
+module VentanasHelper
+end
