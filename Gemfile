@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.2.4'
 gem 'jquery-ui-sass-rails'
 gem 'owlcarousel-rails'
 gem 'rails_12factor'
